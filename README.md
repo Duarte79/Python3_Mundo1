@@ -1,2 +1,3 @@
 # Python3_Mundo1
- Exercicios
+ Exercícios
+Deixando tudo pronto
